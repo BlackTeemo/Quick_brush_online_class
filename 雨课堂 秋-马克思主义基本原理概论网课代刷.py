@@ -6,15 +6,6 @@ import requests
 import re
 import json
 import csv
-# csrftoken = "QMeGCq9yl8x2luCecyamGc0aCaFFBLo8"
-# sessionid = "s43c22l99fk9ayd8xduv0815coxpgzfh"
-# user_id= "38783482"
-# skuid = '3286440' GTY
-
-# csrftoken = "3zjirMBRUZf0G4cGBLf46l2fny2nyLZA"
-# sessionid = "om6gci2yayxow6894zo9l9kgo772v7ct"
-# user_id= "38783485"
-# skuid = '3286440'
 
 csrftoken = ""  # 填自己的
 sessionid = ""  # 填自己的
